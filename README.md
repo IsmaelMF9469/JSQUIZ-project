@@ -1,1 +1,1 @@
-# JSQUIZ-project1
+# JSQUIZ-project
